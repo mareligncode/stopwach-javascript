@@ -1,0 +1,54 @@
+#s{
+    background-color: black;
+    color: beige;
+    font-size: 20px;
+    border-radius: 12px;
+    width: 60;
+}
+#ss{
+    background-color:blue;
+    color: beige;
+    font-size: 20px;
+    border-radius: 12px;
+    width: 60;
+}
+#sss{
+    background-color:green;
+    color: black;
+    font-size: 20px;
+    border-radius: 12px;
+    width: 60;
+}
+body{
+    background-color: chocolate;
+    margin-top: 100;
+    margin-bottom: 100;
+    margin-left: 100;
+    margin-right: 100;
+}
+#cr7{width:70px;
+    height:25px;
+    border-radius: 12px;
+    background-color: rgb(120,130,140);
+    color:chartreuse;
+}
+.w{
+    background-color:aqua;
+    color: black;
+    border-radius: 10px;
+    border: dotted 4;
+}
+#f{
+    background-color:black;
+    color:brown
+
+}
+#today{
+    background-color:azure;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    font-size: 25px;
+    border-radius: 8px;
+
+}
